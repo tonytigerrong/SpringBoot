@@ -1,0 +1,7 @@
+com.companyname.challenge
+com.companyname.challenge.components
+com.companyname.challenge.dao
+com.companyname.challenge.entities
+com.companyname.challenge.restfulapi
+com.companyname.challenge.services
+com.companyname.challenge.utils

@@ -1,0 +1,7 @@
+com/companyname/challenge/restfulapi/Schedules.class
+com/companyname/challenge/components/Printer.class
+com/companyname/challenge/BackendChallengeApplication.class
+com/companyname/challenge/dao/ScheduleRepo.class
+com/companyname/challenge/utils/TestDataHelper.class
+com/companyname/challenge/entities/ScheduleEntity.class
+com/companyname/challenge/services/ScheduleService.class

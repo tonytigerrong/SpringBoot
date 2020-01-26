@@ -1,0 +1,4 @@
+com/companyname/challenge/dao/ScheduleRepoTest.class
+com/companyname/challenge/BackendChallengeApplicationTests.class
+com/companyname/challenge/restfulapi/SchedulesTest.class
+com/companyname/challenge/services/ScheduleServiceTest.class
