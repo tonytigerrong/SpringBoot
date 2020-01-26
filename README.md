@@ -9,5 +9,6 @@ IDE: STS(version 3.9.11.RELEASE)
 ### Unit test command
 mvn clean test
 
-
+### Test and Build command
+mvn package
 
